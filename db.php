@@ -8,11 +8,11 @@ $con = MySQLi_connect(
 
    "localhost", //Server host name.
 
-   "root", //Database username.
+   "hmbwrbeuue", //Database username.
 
-   "", //Database password.
+   "RS8j3wkFNv", //Database password.
 
-   "autocomplete" //Database name or anything you would like to call it.
+   "hmbwrbeuue" //Database name or anything you would like to call it.
 
 );
 
