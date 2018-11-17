@@ -4,7 +4,7 @@
 echo "dd";
 //Database connection.
 
-$con = MySQLi_connect("localhost","root","","adsansar" );
+$con = MySQLi_connect("localhost","hmbwrbeuue","RS8j3wkFNv","hmbwrbeuue" );
 
 
 
