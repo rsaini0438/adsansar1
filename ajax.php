@@ -10,8 +10,8 @@ if (isset($_POST['search'])) {
  
 //Search box value assigning to $Name variable.
  
-   $Name = $_POST['search'];
- 
+   echo $Name = $_POST['search'];
+exit;
 //Search query.
  
    $Query = "SELECT Name FROM search WHERE Name LIKE '%$Name%' LIMIT 5";
