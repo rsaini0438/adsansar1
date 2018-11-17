@@ -14,7 +14,7 @@ function fill(Value) {
 }
  
 $(document).ready(function() {
- alert(22);
+ alert(223);
    //On pressing a key on "Search box" in "search.php" file. This function will be called.
  
    $("#search").keyup(function() {
