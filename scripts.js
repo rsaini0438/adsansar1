@@ -62,7 +62,7 @@ alert(name);
                //If result found, this funtion will be called.
  
                success: function(html) {
- 
+alert(88);
                    //Assigning result to "display" div in "search.php" file.
  
                    $("#display").html(html).show();
