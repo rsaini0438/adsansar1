@@ -4,16 +4,11 @@
 echo "dd";
 //Database connection.
 
-$con = MySQLi_connect("localhost","hmbwrbeuue","RS8j3wkFNv","hmbwrbeuue" );
+$con = MySQLi_connect("localhost","root","","adsansar" );
 
 
 
 //Check connection
 
-if (MySQLi_connect_errno()) {
-
-   echo "Failed to connect to MySQL: " . MySQLi_connect_error();
-
-}
 
 ?>
