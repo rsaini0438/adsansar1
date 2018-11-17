@@ -36,7 +36,7 @@ alert(name);
        //If name is not empty.
  
        else {
- 
+ debugger;
            //AJAX is called.
  
            $.ajax({
