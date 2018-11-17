@@ -14,7 +14,7 @@ function fill(Value) {
 }
  
 $(document).ready(function() {
- alert(223);
+ 
    //On pressing a key on "Search box" in "search.php" file. This function will be called.
  
    $("#search").keyup(function() {
@@ -24,7 +24,7 @@ $(document).ready(function() {
        var name = $('#search').val();
  
        //Validating, if "name" is empty.
-alert(name);
+
        if (name == "") {
  
            //Assigning empty value to "display" div in "search.php" file.
