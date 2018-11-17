@@ -15,7 +15,7 @@
  
    <!-- Including our scripting file. -->
  
-   <script type="text/javascript" src="script.js"></script>
+   <script type="text/javascript" src="scripts.js"></script>
  
    <!-- Including CSS file. -->
  
