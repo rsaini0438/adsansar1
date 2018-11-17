@@ -1,20 +1,10 @@
 <?php
 
 
-
+echo "dd";
 //Database connection.
 
-$con = MySQLi_connect(
-
-   "localhost", //Server host name.
-
-   "hmbwrbeuue", //Database username.
-
-   "RS8j3wkFNv", //Database password.
-
-   "hmbwrbeuue" //Database name or anything you would like to call it.
-
-);
+$con = MySQLi_connect("localhost","hmbwrbeuue","RS8j3wkFNv","hmbwrbeuue" );
 
 
 
