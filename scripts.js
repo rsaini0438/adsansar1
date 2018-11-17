@@ -24,7 +24,7 @@ $(document).ready(function() {
        var name = $('#search').val();
  
        //Validating, if "name" is empty.
- 
+alert(name);
        if (name == "") {
  
            //Assigning empty value to "display" div in "search.php" file.
@@ -32,7 +32,7 @@ $(document).ready(function() {
            $("#display").html("");
  
        }
-alert(name);
+
        //If name is not empty.
  
        else {
