@@ -14,7 +14,7 @@ function fill(Value) {
 }
  
 $(document).ready(function() {
- 
+ alert(22);
    //On pressing a key on "Search box" in "search.php" file. This function will be called.
  
    $("#search").keyup(function() {
@@ -32,7 +32,7 @@ $(document).ready(function() {
            $("#display").html("");
  
        }
- 
+alert(name);
        //If name is not empty.
  
        else {
